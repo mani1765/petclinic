@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: mani1765/cloudfreak-docker
   tag: latest
   pullPolicy: IfNotPresent
 
